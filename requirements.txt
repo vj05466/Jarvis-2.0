@@ -1,1 +1,2 @@
-# This is a placeholder for requirements.txt
+flask
+requests# This is a placeholder for requirements.txt
